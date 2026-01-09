@@ -22,9 +22,6 @@ This project focuses on clean UI design, reusable components, and responsive lay
 - Responsive web design principles
 - Improving UI performance and maintainability
 
-## 🔗 Live Preview (optional)
-_Add link if hosted_
-
 ## 📂 Project Setup
 ```bash
 npm install
